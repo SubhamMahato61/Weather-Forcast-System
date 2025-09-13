@@ -36,15 +36,16 @@ A full-stack weather application that provides real-time weather data, 3-day for
 ## 📸 Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/dashboard.png)
+![Admin Dashboard](dashboard.png)
 
 ### Weather Search UI
-![Weather UI](screenshots/homepage.png)
+![Weather UI](homepage.png)
 
-![Query Logs](screenshots/weather-ui.png)
-![Forcast](screenshots/weather-forcast.png)
-![Comparision](screenshots/feature.png)
+![Query Logs](weather-ui.png)
+![Forcast](weather-forcast.png)
+![Comparision](feature.png)
 
 ## 📄 License
 
 This project is for educational use under the MIT License.
+
