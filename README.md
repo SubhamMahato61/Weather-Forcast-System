@@ -41,11 +41,17 @@ A full-stack weather application that provides real-time weather data, 3-day for
 ### Weather Search UI
 ![Weather UI](homepage.png)
 
+### Query Logs
 ![Query Logs](weather-ui.png)
+
+### Weather Forcast
 ![Forcast](weather-forcast.png)
+
+### Feature
 ![Comparision](feature.png)
 
 ## 📄 License
 
 This project is for educational use under the MIT License.
+
 
